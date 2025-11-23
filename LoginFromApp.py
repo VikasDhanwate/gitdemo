@@ -2,8 +2,8 @@ import tkinter as tk
 from tkinter import messagebox
 
 # Hardcoded valid credentials for demonstration
-VALID_USERNAME = "user123"
-VALID_PASSWORD = "password123"
+VALID_USERNAME = "user1234"
+VALID_PASSWORD = "password1234"
 
 def handle_login():
     """
